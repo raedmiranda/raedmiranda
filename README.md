@@ -3,16 +3,14 @@
 I'm a software engineer from Peru. I graduated from [UPN](https://www.upn.edu.pe/) with a Bach. in Computer Systems Engineering focusing on Software Engineering.
 I do my best to achieve the proposed task and learn new technologies that contribute to the project.  
 
-I'm a firm believer that... 
+   >  ✨✨ *APIs play a crucial role in business growth and link technologies with companies.* ✨✨
 
->  ✨✨ APIs play a crucial role in business growth and link technologies with companies. ✨✨<
-
-That's why my main focus is to exercise APIs and microservices patterns to becoming a **software architect**.
+I'm a firm believer in that, so my main focus is to exercise APIs and microservices patterns to become a **software architect**.
 
 ### 💬 About me:
 - Refactoring guy
-- I prefer NET technologies for backend, REST or GraphQL for endpoints, and Angular or React for frontend, as you can see below:
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raedmiranda&hide=css,javascript,html&exclude_repo=app-glitch,fittech,js-getFormdata,AngularJSCore,tutorial-azure-aad,test-js-getformdata,raed-testsite,AssistanceTest2)](https://github.com/raedmiranda)
+- I prefer .NET technologies for backend, REST or GraphQL for endpoints, and Angular or React for frontend, as you can see below:  
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raedmiranda&hide=css,javascript,html&exclude_repo=app-glitch,fittech,js-getFormdata,AngularJSCore,tutorial-azure-aad,test-js-getformdata,raed-testsite,AssistanceTest2&layout=compact)](https://github.com/raedmiranda)
 
 
 ### ⚡ Fun fact: 
