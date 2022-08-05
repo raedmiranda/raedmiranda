@@ -10,7 +10,7 @@ I'm a firm believer in that, so my main focus is to exercise APIs and microservi
 ### 💬 About me:
 - Refactoring guy
 - I prefer .NET technologies for backend, REST or GraphQL for endpoints, and Angular or React for frontend, as you can see below:  
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raedmiranda&hide=css,javascript,html&exclude_repo=app-glitch,fittech,js-getFormdata,AngularJSCore,tutorial-azure-aad,test-js-getformdata,raed-testsite,AssistanceTest2&layout=compact)](https://github.com/raedmiranda)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raedmiranda&hide=css,scss,javascript,html&exclude_repo=app-glitch,js-getFormdata,AngularJSCore,tutorial-azure-aad,test-js-getformdata,raed-testsite,AssistanceTest2&layout=compact)](https://github.com/raedmiranda)
 
 
 ### ⚡ Fun fact: 
